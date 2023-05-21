@@ -1,4 +1,3 @@
-# Vlad loh
 d = 3
 d = 5
 
